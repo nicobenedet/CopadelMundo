@@ -3,8 +3,7 @@
     padding: 0;
 }
 body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: white;
+    font-family: 'Titillium Web', sans-serif;
 }
 .contenedor{
     width: 90%;
@@ -390,11 +389,31 @@ video{
     }
     
     form{
-        background-color: rgba(0, 0, 0, 0.623);
+        background-color: rgba(0, 0, 0, 0.521);
         padding: 10px;
         margin: 0;
         box-sizing: border-box;
-    }
-.letter{
+    } 
+
+
+.nav-letter{
     color: white;
+    font-size: 25px;
+}
+
+.h1 {
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+
+.p1{
+    background-color: rgba(0, 0, 0, 0.274);
+    font-size: 25px;
+    color: white;
+}
+.buttonindex{
+    color: black;
+    font-weight: bold;
 }
