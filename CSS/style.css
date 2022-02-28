@@ -399,6 +399,7 @@ video{
 .nav-letter{
     color: white;
     font-size: 25px;
+    font-weight: bold;
 }
 
 .h1 {
@@ -409,7 +410,7 @@ video{
 }
 
 .p1{
-    background-color: rgba(0, 0, 0, 0.274);
+    background-color: rgba(0, 0, 0, 0.432);
     font-size: 25px;
     color: white;
 }
@@ -418,7 +419,7 @@ video{
     font-weight: bold;
 }
 .letter{
-    color: black;
+    color: white;
     font-size: 25px;
     font-weight: bold;
 }
@@ -439,5 +440,8 @@ video{
 }
 
 .back{
-    background-color: rgba(0, 0, 0, 0.144);
+    background-color: rgba(39, 37, 37, 0.418);
+}
+.ilustracion{
+    border-radius: 10px;
 }
