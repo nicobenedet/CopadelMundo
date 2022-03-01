@@ -278,21 +278,23 @@ body{
 }
 
 table{
-    background-color: rgba(5, 5, 5, 0.623);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(5, 5, 5, 0.849);
+    font-family:'Titillium Web';
     border-collapse: collapse;
     width: 100%;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 td, th {
-    border: 1px solid rgb(0, 0, 0);
-    color: white;
+    border: 1px solid rgba(248, 242, 242, 0.829);
+    color: rgb(238, 229, 229);
     text-align: left;
     padding: 8px;
 }
 
 tr:nth-child(even) {
-    background-color:rgba(0, 0, 0, 0.911);
+    background-color:rgba(0, 0, 0, 0.945);
 }
 
 .h1H{
@@ -451,4 +453,11 @@ video{
 .logfoot{
     font-size: 20px;
     color: white;
+}
+
+.cardsub{
+    text-decoration: underline;
+}
+.cardbg{
+    background-color: rgba(218, 15, 15, 0.356);
 }
