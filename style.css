@@ -357,12 +357,11 @@ video{
     border-radius: 20px;
 }
 
-.textMH3{
-    background-color: rgba(160, 22, 22, 0.466); 
+.textMH3{ 
     color: white;
     margin-top: 5px;
     padding: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Titillium Web;
     font-size: 30px;
     text-align: center;
 }
@@ -460,4 +459,18 @@ video{
 }
 .cardbg{
     background-color: rgba(218, 15, 15, 0.356);
+}
+.cardlink{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.h1M{
+    background-color: rgba(255, 217, 0, 0.774);
+    color: black;
+    font-weight: bold;
+    font-family: Titillium Web;
+    font-size: 30px;
+    text-align: center;
 }
