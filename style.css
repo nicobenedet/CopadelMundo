@@ -474,3 +474,20 @@ video{
     font-size: 30px;
     text-align: center;
 }
+
+.buttonexp{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.Exp{
+
+    color: white;
+    font-size: 25px;
+    text-decoration:underline;
+}
+.Expe{
+    color: white;
+    font-size: 18px;
+    text-decoration: line-through;
+}
