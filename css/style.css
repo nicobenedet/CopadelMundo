@@ -491,3 +491,8 @@ video{
     font-size: 18px;
     text-decoration: line-through;
 }
+.carrusel {
+    background-color: black;
+    color: gold;
+    font-weight: bold;
+    font-size: 20px; }
