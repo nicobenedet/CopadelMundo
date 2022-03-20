@@ -1,0 +1,135 @@
+header nav img {
+  width: 80;
+  height: 80; }
+
+footer img {
+  width: 30px;
+  height: 30px; }
+
+body {
+  font-family: 'Titillium Web', sans-serif; }
+
+header nav .nav-letter {
+  color: white;
+  font-size: 25px;
+  font-weight: bold; }
+
+header nav ul li a .nav-letter {
+  color: white;
+  font-size: 25px; }
+
+body .h1 {
+  color: black;
+  font-weight: bolder;
+  font-size: 40px;
+  text-align: center; }
+
+body .p1 {
+  background-color: rgba(0, 0, 0, 0.432);
+  font-size: 25px;
+  color: white;
+  border-radius: 10px; }
+
+footer {
+  background-color: #141414c4;
+  text-align: center;
+  margin-top: 10px; }
+
+.logfoot {
+  font-size: 20px;
+  color: white;
+  align-items: center; }
+
+a .buttonindex {
+  color: black;
+  font-weight: bold;
+  align-items: center; }
+
+.btn-Klose {
+  color: white;
+  background-color: red; }
+
+.btn-Pele {
+  color: white;
+  background-color: green; }
+
+.btn-Maradona {
+  color: white;
+  background-color: blue; }
+
+.btn-Zidane {
+  color: white;
+  background-color: grey; }
+
+.h1M, .h2M {
+  background-color: rgba(255, 217, 0, 0.774);
+  color: black;
+  font-weight: bold;
+  font-family: Titillium Web;
+  font-size: 30px;
+  text-align: center; }
+
+.h2M {
+  background-color: rgba(255, 255, 255, 0.829);
+  color: red; }
+
+.text1 {
+  color: black;
+  font-size: 20px;
+  font-weight: bold; }
+
+.text-p {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  text-decoration-color: red; }
+
+.history-text {
+  color: #110000;
+  font-size: 25px;
+  font-weight: bold; }
+
+.title-h {
+  background-color: gold;
+  color: black;
+  font-weight: bolder;
+  font-size: 40px;
+  text-align: center; }
+
+table {
+  background-color: rgba(238, 227, 227, 0.678);
+  text-align: center; }
+
+th, td {
+  border: solid 2px black;
+  padding: 5px;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 3px; }
+
+thead {
+  background-color: rgba(255, 217, 0, 0.801);
+  color: black; }
+
+.carrusel {
+  background-color: black;
+  color: gold;
+  font-weight: bold;
+  font-size: 20px; }
+
+.text-exp {
+  color: white;
+  font-size: 20px;
+  font-weight: bold; }
+
+.text-exp2 {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: underline; }
+
+.botonexp {
+  color: black;
+  font-weight: bold; }
