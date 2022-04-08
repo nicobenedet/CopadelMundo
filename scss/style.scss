@@ -5,13 +5,13 @@ header{
     nav{
         .nav-letter{
             color:white;
-            font-size:25px;
+            font-size: 1.5rem;
             font-weight: bold;
         }
         ul li a{
             .nav-letter{
                 color: white;
-                font-size: 25px;
+                font-size: 1.5rem;
             }
         }
     }
@@ -21,12 +21,12 @@ body{
     .h1{
         color: black;
         font-weight: bolder;
-        font-size: 40px;
+        font-size: 2.5rem;
         text-align: center;
     }
     .p1{
         background-color: rgba(0, 0, 0, 0.432);
-        font-size: 25px;
+        font-size: 1.5rem;
         color:white;
         border-radius: 10px;
     }
@@ -36,9 +36,11 @@ footer{
         background-color:  #141414c4;
         text-align: center;
         margin-top: 10px;
+        bottom: 0;
+        width: 100%;
     }
     .logfoot{
-        font-size: 20px;
+        font-size: 1.25rem;
         color: white;
         align-items: center;
     }
@@ -66,7 +68,7 @@ $btn:
     color: black;
     font-weight: bold;
     font-family: Titillium Web;
-    font-size: 30px;
+    font-size: 1.8rem;
     text-align: center;
 }
 
@@ -78,7 +80,7 @@ $btn:
 
 @mixin textcards {
     color: black;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
 }
 
@@ -89,7 +91,7 @@ $btn:
 @mixin players {
     color: black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 1.25rem;
     text-decoration:underline;
     text-decoration-color: red;
 }
@@ -99,7 +101,7 @@ $btn:
 
 @mixin textcards2{
     color: rgb(17, 0, 0);
-    font-size:25px;
+    font-size: 1.5rem;
     font-weight: bold;
 }
 .history-text{
@@ -109,7 +111,7 @@ $btn:
     background-color: gold;
     color: black;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 2.5rem;
     text-align: center;
 }
 
@@ -121,7 +123,7 @@ th,td{
     border: solid 2px black;
     padding: 5px;
     color: black;
-    font-size: 25px;
+    font-size: 1.5rem;
     font-weight: bold;
     margin-bottom: 3px;
 }
@@ -133,16 +135,16 @@ thead{
     background-color: black;
     color:gold;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 .text-exp{
     color:white;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: bold;
 }
 @mixin experiencia{
     color: white;
-    font-size: 15px;
+    font-size: 1rem;
     font-weight: bold;
     text-decoration: underline;
 }
